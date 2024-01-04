@@ -20,5 +20,5 @@ Real-time whiteboard made with Next.JS and Socket.IO
 - Socket.IO
 
 # Whiteboard
+[Screencast from 04-01-24 11:25:33 PM IST.webm](https://github.com/SD-softuser/Whiteboard/assets/87274203/62ba625e-9c99-4efe-970f-95736e78e584)
 
-./assests/Screencast from 04-01-24 11:25:33 PM IST.webm
